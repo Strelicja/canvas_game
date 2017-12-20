@@ -9,6 +9,7 @@ const canvasHeight = canvas.height;
 const ballSize = 20;// piłka
 
 
+
 function table() {
   //boisko
   ctx.fillStyle = 'black';
